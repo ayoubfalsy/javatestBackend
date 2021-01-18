@@ -1,4 +1,4 @@
-# les les choses que j'ai fait :
+# Les choses que j'ai fait :
 * Cloner le project.
 * Créer une branche :le nom du branche est **Java**.
 * L'mplémentation de la méthode retrieveVideosByTagAndLevel avec les cas possibles.
